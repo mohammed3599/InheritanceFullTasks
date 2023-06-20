@@ -1,0 +1,15 @@
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\bin\Debug\net6.0\InheritanceFullTask.exe
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\bin\Debug\net6.0\InheritanceFullTask.deps.json
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\bin\Debug\net6.0\InheritanceFullTask.runtimeconfig.json
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\bin\Debug\net6.0\InheritanceFullTask.dll
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\bin\Debug\net6.0\InheritanceFullTask.pdb
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\InheritanceFullTask.csproj.AssemblyReference.cache
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\InheritanceFullTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\InheritanceFullTask.AssemblyInfoInputs.cache
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\InheritanceFullTask.AssemblyInfo.cs
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\InheritanceFullTask.csproj.CoreCompileInputs.cache
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\InheritanceFullTask.dll
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\refint\InheritanceFullTask.dll
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\InheritanceFullTask.pdb
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\InheritanceFullTask.genruntimeconfig.cache
+C:\Users\LAB-7\source\repos\InheritanceFullTask\InheritanceFullTask\obj\Debug\net6.0\ref\InheritanceFullTask.dll
